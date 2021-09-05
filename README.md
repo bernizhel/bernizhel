@@ -5,10 +5,9 @@ Though I like playing around with Data Science, Making Games, delve into OS and 
 
 ___
 ### 🌱 I’m currently working on following
-- MetaLamp education program
+- MetaLamp education program (Task 2)
 
 ___
 ### 📫 How to reach me ...
 * Email: detrop.1995@gmail.com
 * Telegram: bernizhel
-* Skype: live:.cid.b45238ce4442c1b6
