@@ -5,7 +5,8 @@ Though I like playing around making games, delving into computer science and dat
 
 ___
 ### 🌱 I’m currently working on following
-- MetaLamp education program (Task 2)
+- KODE Trainee Frontend Test Task
+- MetaLamp education program (Misison 2)
 
 ___
 ### 📫 How to reach me ...
