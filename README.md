@@ -5,7 +5,7 @@ Though I like playing around making games, delving into computer science and dat
 
 ___
 ### 🌱 I’m currently working on following
-
+* KODE Frontend Internship
 ___
 ### 📫 How to reach me ...
 * Email: detrop.1995@gmail.com
