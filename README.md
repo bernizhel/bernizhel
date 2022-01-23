@@ -1,2 +1,3 @@
 ### 🌱 I’m currently working on following
-* KODE Frontend Internship
+* React Native project
+* Code Complete - Steve McConnell
